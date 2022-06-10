@@ -1,7 +1,7 @@
 # ML-AI-for-Aviation-Industry
 (Regularly updated)
 
-This repo will contain or contains Ml and AI usecases for Aviation Industry, such as: 
+This repo will contain or contains ML and AI usecases for Aviation Industry, such as: 
 1. Revenue management
 2. Demanded flight routes
 3. Expected marginal seat revenue (EMSR)
